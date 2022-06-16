@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\MensajeDeBienvenida\MensajeDeBienvenida\bin\Debug\MensajeDeBienvenida.exe
+C:\Users\tauro\Desktop\MensajeDeBienvenida\MensajeDeBienvenida\bin\Debug\MensajeDeBienvenida.pdb
+C:\Users\tauro\Desktop\MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.exe
+C:\Users\tauro\Desktop\MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\62-MensajeDeBienvenida\MensajeDeBienvenida\bin\Debug\MensajeDeBienvenida.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\62-MensajeDeBienvenida\MensajeDeBienvenida\bin\Debug\MensajeDeBienvenida.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\62-MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\62-MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\62-MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\62-MensajeDeBienvenida\MensajeDeBienvenida\obj\Debug\MensajeDeBienvenida.pdb
